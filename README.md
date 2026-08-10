@@ -1,7 +1,7 @@
 # Tushar Kumar Tiwari - Resume & Portfolio
 
-[![Open PDF Resume](https://img.shields.io/badge/📄_Open_Resume-View_PDF-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/TusharCodeup/Tushar-s_Resume/blob/main/Tushar_Resume.pdf)
-[![Download PDF](https://img.shields.io/badge/⬇️_Download-PDF-10b981?style=for-the-badge)](https://raw.githubusercontent.com/TusharCodeup/Tushar-s_Resume/main/Tushar_Resume.pdf)
+[![Open PDF Resume](https://img.shields.io/badge/📄_Open_Resume-View_PDF-2563eb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/TusharCodeup/Tushar-s_Resume/blob/main/Tushar's_Resume.pdf)
+[![Download PDF](https://img.shields.io/badge/⬇️_Download-PDF-10b981?style=for-the-badge)](https://raw.githubusercontent.com/TusharCodeup/Tushar-s_Resume/main/Tushar's_Resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-TusharCodeup-181717?style=for-the-badge&logo=github)](https://github.com/TusharCodeup)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar_Kumar_Tiwari-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tushar-kumar-tiwari)
 
@@ -9,22 +9,21 @@
 
 ## 🔗 Quick Links (Open Resume)
 
-* 📄 **[Open & View Resume PDF in Browser (`Tushar_Resume.pdf`)](https://github.com/TusharCodeup/Tushar-s_Resume/blob/main/Tushar_Resume.pdf)**
-* ⬇️ **[Direct Download (`Tushar_Resume.pdf`)](https://raw.githubusercontent.com/TusharCodeup/Tushar-s_Resume/main/Tushar_Resume.pdf)**
-* 📄 **[Alternative Filename Link (`Tushar's-Resume.pdf`)](https://github.com/TusharCodeup/Tushar-s_Resume/blob/main/Tushar%27s-Resume.pdf)**
+* 📄 **[Open & View Resume PDF in Browser (`Tushar's_Resume.pdf`)](https://github.com/TusharCodeup/Tushar-s_Resume/blob/main/Tushar's_Resume.pdf)**
+* ⬇️ **[Direct Download (`Tushar's_Resume.pdf`)](https://raw.githubusercontent.com/TusharCodeup/Tushar-s_Resume/main/Tushar's_Resume.pdf)**
 
 ---
 
 ## 📞 Contact Information
 - **Phone:** +91 8122061903
-- **Email:** [tushar.23bai10551@vitbhopal.ac.in](mailto:tushar.23bai10551@vitbhopal.ac.in)
+- **Email:** [tushartiwari91410@gmail.com](mailto:tushartiwari91410@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tushar-kumar-tiwari](https://linkedin.com/in/tushar-kumar-tiwari)
 - **GitHub:** [github.com/TusharCodeup](https://github.com/TusharCodeup)
 
 ---
 
 ## ⚡ Summary
-Software Engineering student with a product-first mindset and deep passion for leveraging technology to solve real-world problems at scale. Experienced in building production-style full-stack systems (**Java/Spring Boot**, **Node.js**) and data-driven **ML pipelines**. Thrives in fast-paced startup environments with a bias for action, owning features end-to-end—from design to deployment. Keenly interested in building scalable, high-impact platforms that empower millions of users, aligning perfectly with WorkIndia’s mission to revolutionize blue-collar hiring in India.
+Highly enthusiastic B.Tech Computer Science student with specializing in AI/ML engineering and full-stack development. Proficient in HTML, CSS, FastAPI, SQL, React.js, and Scikit-learn, with a proven track record of architecting scalable applications like a job portal with 40% optimized query speeds. Adept at building low-latency ML pipelines, feature engineering on massive sports datasets, and real-time models with 92% precision. Combines deep technical skills with strong strategic problem-solving and cross-functional team leadership.
 
 ---
 
@@ -32,44 +31,42 @@ Software Engineering student with a product-first mindset and deep passion for l
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Java, C++, Python, JavaScript, SQL, Go *(familiar)* |
-| **Backend & Web** | Spring Boot, Hibernate/JPA, Node.js, Express.js, FastAPI, React.js, HTML5, CSS3, REST APIs |
-| **Databases** | PostgreSQL, MySQL, MongoDB *(familiar)* |
-| **Data Science / ML** | NumPy, Pandas, Scikit-learn, XGBoost, OpenCV, Matplotlib |
-| **Tools & Platforms** | Git, GitHub, Docker, Kubernetes *(basics)*, Google Colab |
+| **Languages** | C++, Python, Java |
+| **Data & AI** | Pandas, NumPy, Scikit-learn, LangChain, HuggingFace |
+| **Backend & Web** | Django, FastAPI, HTML5, CSS3, React.js, REST APIs |
+| **Databases** | MySQL |
+| **Tools** | Git and GitHub, Excel, Google Sheets, Jupyter, Google Colab |
 
 ---
 
 ## 🚀 Projects
 
 ### 🌟 CampusHire – Full-Stack Job Portal
-*Java, Spring Boot, Hibernate, MySQL, REST API* | **Sep 2025 – Feb 2026**
-- **End-to-End Ownership:** Owned the end-to-end product lifecycle for a job-matching platform, architecting the database schema and REST APIs that onboarded **1,000+ active users** (students & recruiters) within the first month.
-- **Metric Optimization:** Drove a key product metric—recruiter response time—by **40%** by implementing an automated email/SMS notification pipeline.
-- **Security & Access Control:** Designed role-based access control (RBAC) and secure JWT authentication, reducing unauthorized access attempts by **95%**.
+*Java, React, SQL* | **Sep 2025 – Feb 2026**
+- **Architecture:** Architected a scalable job-matching platform serving job's to freshers; designed REST APIs and optimized database queries reducing response time by **40%**.
+- **Security & UI:** Implemented role-based access control and secure authentication; built intuitive UI/UX designs.
+- **Analytics:** Conducted user analytics to identify engagement patterns and drove product decisions to improve client retention.
+- **Demo:** Live Demo
 
-### 🏏 IPL Match Winner Prediction System
-*Python, FastAPI, React.js, Scikit-learn, XGBoost* | **Apr 2026 – Present**
-- **High-Accuracy ML Model:** Built an ML-powered prediction platform reaching **87% accuracy** on match outcomes using historical and live match data.
-- **Real-Time Backend:** Engineered **20+ features** and deployed a FastAPI backend powering an interactive dashboard with real-time win-probability updates.
+### 🏏 IPL Analytics & Win Probability Platform
+*Python, FastAPI, React.js, CSS, Scikit-learn* | **Apr 2026 – Present**
+- **Interactive Dashboards:** Designed REST APIs with FastAPI and developed interactive dashboards with React.js and Recharts for real-time analytics.
+- **ML Models:** Built live win-probability models using Scikit-learn, leveraging historical and real-time match data.
+- **Data Engineering:** Performed data preprocessing, feature engineering, and team analytics on Cricsheet IPL datasets to optimize prediction accuracy.
+- **Demo:** Live Demo
 
-### 🎥 Video Anomaly Detection
-*Python, Random Forest, OpenCV* | **Jan 2025 – Aug 2025**
-- **Robust Video ML:** Trained a Random Forest-based detector achieving **92% precision** and **88% recall** on live video streams.
-- **Low Latency Pipeline:** Deployed a real-time alert pipeline with **sub-200ms** per-frame latency.
-
-### 👤 Attendance using Face Recognition
-*Python, OpenCV, Pandas* | **Feb 2024 – Jun 2024**
-- **Real-Time Recognition:** Engineered a real-time face-recognition attendance system achieving **95% accuracy** across **200+ test faces**.
-- **Efficiency Boost:** Cut manual attendance entry time by **40%** by integrating directly with the existing database.
+### 🎥 Video Anomaly Detection System
+*Python, OpenCV, Random Forest* | **Jan 2025 – Aug 2025**
+- **Real-Time Detection:** Developed real-time anomaly detection with **92% precision** and **88% recall** on live video streams.
+- **Performance Engineering:** Optimized inference pipeline for **sub-200ms** latency, demonstrating performance engineering expertise.
+- **Impact:** Delivered actionable alerts to stakeholders, reducing manual monitoring effort by **60%**.
 
 ---
 
 ## 🏆 Leadership & Initiatives
-- Completed the IPL Prediction platform; planning, code reviews.
-- **Core Member** in the workshop team and Event Management Teams; collaborated in team-based academic projects.
-- Continuously improving leadership and technical communication skills.
-- Consistently practice Data Structures, Algorithms, and problem-solving across top coding platforms.
+- Competed as a school delegate in the district chess championship at IIT Madras.
+- **Core Member** in workshop and event management teams; coordinated cross-functional academic initiatives.
+- Exploring UI/UX trends and creative web designs; enjoy football, badminton, and tech podcasts.
 
 ---
 
@@ -77,15 +74,13 @@ Software Engineering student with a product-first mindset and deep passion for l
 
 | Institution | Degree & Performance | Duration | Location |
 | :--- | :--- | :--- | :--- |
-| **Vellore Institute of Technology** | B.Tech in Computer Science *(CGPA: 8.55)* | Aug 2023 – May 2027 | Bhopal, MP |
-| **Kendriya Vidyalaya No.1 Arakkonam** | Senior Secondary (12th) | Aug 2022 – May 2023 | Tamil Nadu |
+| **Vellore Institute of Technology** | B.Tech in Computer Science *(CGPA: 8.54)* | Aug 2023 – May 2027 | Bhopal, MP |
+| **Kendriya Vidyalaya No.1 Arakkonam** | Senior Secondary (12th) *(Percentage: 78.2%)* | Aug 2022 – May 2023 | Tamil Nadu |
 | **Kendriya Vidyalaya, Ghazipur** | High School (10th) *(Percentage: 94.8%)* | Aug 2021 – May 2022 | Uttar Pradesh |
 
 ---
 
 ## 📜 Certifications
-- **Data Visualization: Empowering Business with Effective Insights** *(Certificate of Completion)*
-- **NPTEL Certified in Cloud Computing** *(Elite + Silver)*
-- **Python for Data Science – NPTEL** *(Ongoing, Enrolled)*
-- **SQL for Data Analysis** – UC Davis *(Coursera)*
-- **Machine Learning Specialization** – Stanford Online *(Coursera – in progress)*
+- **Cloud Computing** – NPTEL
+- **Internet of Things** – NPTEL
+- **Machine Learning Specialization** – Stanford
