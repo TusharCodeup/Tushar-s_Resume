@@ -46,14 +46,14 @@ Highly enthusiastic B.Tech Computer Science student with specializing in AI/ML e
 - **Architecture:** Architected a scalable job-matching platform serving job's to freshers; designed REST APIs and optimized database queries reducing response time by **40%**.
 - **Security & UI:** Implemented role-based access control and secure authentication; built intuitive UI/UX designs.
 - **Analytics:** Conducted user analytics to identify engagement patterns and drove product decisions to improve client retention.
-- **Demo:** Live Demo
+- **Demo:** [Live Demo](https://campus-hire-recruitment.netlify.app/)
 
 ### 🏏 IPL Analytics & Win Probability Platform
 *Python, FastAPI, React.js, CSS, Scikit-learn* | **Apr 2026 – Present**
 - **Interactive Dashboards:** Designed REST APIs with FastAPI and developed interactive dashboards with React.js and Recharts for real-time analytics.
 - **ML Models:** Built live win-probability models using Scikit-learn, leveraging historical and real-time match data.
 - **Data Engineering:** Performed data preprocessing, feature engineering, and team analytics on Cricsheet IPL datasets to optimize prediction accuracy.
-- **Demo:** Live Demo
+- **Demo:** [Live Demo](https://ipl-cricket-prediction.netlify.app/)
 
 ### 🎥 Video Anomaly Detection System
 *Python, OpenCV, Random Forest* | **Jan 2025 – Aug 2025**
