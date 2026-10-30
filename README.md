@@ -23,7 +23,7 @@
 ---
 
 ## ⚡ Summary
-Highly enthusiastic B.Tech Computer Science student with specializing in AI/ML engineering and full-stack development. Proficient in HTML, CSS, FastAPI, SQL, React.js, and Scikit-learn, with a proven track record of architecting scalable applications like a job portal with 40% optimized query speeds. Adept at building low-latency ML pipelines, feature engineering on massive sports datasets, and real-time models with 92% precision. Combines deep technical skills with strong strategic problem-solving and cross-functional team leadership.
+B.Tech CS student specializing in Agentic AI, RAG architectures, and full-stack ML. Skilled in Python, LangGraph, LangChain, Neo4j, Pinecone, and FastAPI, with hands-on experience building multi-agent pipelines (40% token reduction), dual-retrieval GraphRAG engines (5,500+ node graphs), and real-time ML platforms (78% accuracy).
 
 ---
 
@@ -31,35 +31,36 @@ Highly enthusiastic B.Tech Computer Science student with specializing in AI/ML e
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C++, Python, Java |
-| **Data & AI** | Pandas, NumPy, Scikit-learn, LangChain, HuggingFace |
-| **Backend & Web** | Django, FastAPI, HTML5, CSS3, React.js, REST APIs |
-| **Databases** | MySQL |
-| **Tools** | Git and GitHub, Excel, Google Sheets, Jupyter, Google Colab |
+| **Languages** | Python, C++, SQL |
+| **AI & LLM** | LangGraph, LangChain, GraphRAG, Autonomous Agents, Gemini API, Prompt Engineering |
+| **ML & Data** | Scikit-learn, Pandas, NumPy, Feature Engineering, Predictive Modeling, Vector Embeddings |
+| **Backend & Web** | FastAPI, REST APIs, Node.js, React.js, HTML5, CSS3 |
+| **Databases** | Neo4j (Graph DB), Pinecone (Vector DB), MySQL |
+| **Tools** | Docker, Git, GitHub, Google Colab |
 
 ---
 
 ## 🚀 Projects
 
-### 🌟 CampusHire – Full-Stack Job Portal
-*Java, React, SQL* | **Sep 2025 – Feb 2026**
-- **Architecture:** Architected a scalable job-matching platform serving job's to freshers; designed REST APIs and optimized database queries reducing response time by **40%**.
-- **Security & UI:** Implemented role-based access control and secure authentication; built intuitive UI/UX designs.
-- **Analytics:** Conducted user analytics to identify engagement patterns and drove product decisions to improve client retention.
-- **Demo:** [Live Demo](https://campus-hire-recruitment.netlify.app/)
+### 🤖 Decode Team
+*LangGraph, Gemini API, Docker, Node.js, AST* | [GitHub](https://github.com/TusharCodeup/Decode-DevSystem) | **Aug 2026 – Present**
+- **Autonomous Multi-Agent Architecture:** Architected a LangGraph + Gemini multi-agent system with a cyclic state machine across 5 specialized agents (PM, Architect, Coder, Reviewer, Debugger) to synthesize full-stack apps from raw requirements.
+- **Self-Healing & Diagnostic Triage:** Engineered a 3-tier diagnostic triage & self-healing loop that eliminated runaway execution, cutting token usage by **40%** via <1ms AST syntax gates and convergence circuit breakers.
+- **Isolated Sandbox Execution:** Built an ephemeral Docker sandbox enforcing zero-trust security, package whitelisting, and Git-backed rollbacks on test regression.
+- **Content-Addressable Storage (CAS):** Implemented a SHA-256 Content-Addressable Virtual File System to eliminate LangGraph state bloat, passing **100% of a 76-test** end-to-end code generation suite.
 
-### 🏏 IPL Analytics & Win Probability Platform
-*Python, FastAPI, React.js, CSS, Scikit-learn* | **Apr 2026 – Present**
-- **Interactive Dashboards:** Designed REST APIs with FastAPI and developed interactive dashboards with React.js and Recharts for real-time analytics.
-- **ML Models:** Built live win-probability models using Scikit-learn, leveraging historical and real-time match data.
-- **Data Engineering:** Performed data preprocessing, feature engineering, and team analytics on Cricsheet IPL datasets to optimize prediction accuracy.
-- **Demo:** [Live Demo](https://ipl-cricket-prediction.netlify.app/)
+### 🎬 CineGraph-RAG
+*LangChain.js, Neo4j, Pinecone* | [GitHub](https://github.com/TusharCodeup/CineGraph-RAG) | **Jan 2026 – July 2026**
+- **Dual-Retrieval GraphRAG:** Built a dual-retrieval GraphRAG system indexing 1,000+ TMDB movies across a Neo4j knowledge graph (**5,500+ nodes, 13,600+ relationships**) and a 3,072-dim Pinecone vector store.
+- **Intent-Driven Routing:** Developed an intent-driven LLM router that bifurcates queries into parameterized Cypher graph traversals or Pinecone semantic similarity search.
+- **Hallucination Elimination:** Eliminated multi-hop entity hallucinations by grounding Gemini responses with topological graph paths and contextual vector metadata.
+- **Fault-Tolerant Ingestion:** Designed a stateful ingestion pipeline with automated checkpoint recovery and exponential backoff, ensuring API rate limits.
 
-### 🎥 Video Anomaly Detection System
-*Python, OpenCV, Random Forest* | **Jan 2025 – Aug 2025**
-- **Real-Time Detection:** Developed real-time anomaly detection with **92% precision** and **88% recall** on live video streams.
-- **Performance Engineering:** Optimized inference pipeline for **sub-200ms** latency, demonstrating performance engineering expertise.
-- **Impact:** Delivered actionable alerts to stakeholders, reducing manual monitoring effort by **60%**.
+### 🏏 IPL Analytics Platform
+*Python, FastAPI, React.js, Scikit-learn, Recharts* | [Live Demo](https://ipl-cricket-prediction.netlify.app/) | **June 2025 – Dec 2025**
+- **Real-Time REST APIs:** Deployed FastAPI REST endpoints serving real-time match analytics and live win-probability predictions to an interactive React.js dashboard with Recharts visualizations.
+- **Predictive ML Modeling:** Built Scikit-learn models trained on Cricsheet IPL data, achieving **78% accuracy** on live match-situation inference.
+- **Feature Engineering:** Performed end-to-end preprocessing, feature engineering (run rate, wicket pressure, powerplay metrics), and team-level statistical aggregation to optimize prediction reliability.
 
 ---
 
